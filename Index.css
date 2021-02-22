@@ -1,0 +1,65 @@
+html {
+  background-image: url(https://www.muralswallpaper.co.uk/app/uploads/scientific-chalkboard-childrens-plain-825x535.jpg);
+  background-attachment: fixed;
+  overflow: scroll;
+  
+}
+
+#título{
+  font-size: 60px; 
+  text-align: center;
+  font-family: impact;
+  color: Gray;
+  background-color: white;
+}
+
+h2{
+  background: white;
+  color: black;
+}
+
+hr{
+  border-radius: 15px;
+}
+
+#segunda{
+  font-family: Georgia;
+  text-align: center;
+  background-color: white;
+  color: gray;
+  font-size: 24px;
+  
+}
+
+#Descripción{
+  font-family: georgia;
+  text-align: center;
+  background-color: white;
+  color: black;
+  font-size: 22px;
+}
+
+#Presentación{
+  font-family: georgia;
+  background-color: white;
+  text-align: justify;
+  font-size: 20px;
+}
+
+.estrellas{
+  color: gray;
+  font-size: 25px;
+}
+
+table{
+  background-color: white;
+  align: center;
+}
+
+#Ai{
+  font-family: georgia;
+  background-color: white;
+  text-align: justify;
+  font-size: 20px;
+}
+
